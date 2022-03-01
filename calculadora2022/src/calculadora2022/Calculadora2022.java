@@ -8,7 +8,7 @@ package calculadora2022;
 /**
  *
  * @author redes
- * prueba de cambio otra vez
+ * prueba de cambio otra vez pito
  */
 public class calculadora2022 {
     private int num1;
