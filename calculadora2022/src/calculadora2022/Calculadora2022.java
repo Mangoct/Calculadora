@@ -8,7 +8,7 @@ package calculadora2022;
 /**
  *
  * @author redes
- * representado hijo de puta
+ * representado hijo de puta.
  */
 public class calculadora2022 {
     private int num1;
