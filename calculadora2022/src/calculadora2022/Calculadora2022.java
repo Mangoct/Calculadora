@@ -8,7 +8,7 @@ package calculadora2022;
 /**
  *
  * @author redes111
- * modificacion
+ * modificacion1212
  */
 public class calculadora2022 {
     private int num1;
