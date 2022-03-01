@@ -3,18 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package calculadora;
+package calculadora2022;
 
 /**
  *
  * @author redes1
  * modificacion
  */
-public class Calculadora {
+public class calculadora2022 {
     private int num1;
     private int num2;
     
-    public Calculadora(int a, int b){
+    public calculadora2022(int a, int b){
         num1=a;
         num2=b;
     }
