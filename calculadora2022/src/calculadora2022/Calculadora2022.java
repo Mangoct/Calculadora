@@ -7,7 +7,7 @@ package calculadora2022;
 
 /**
  *
- * @author redes111
+ * @author redes111soiduash
  * modificacion1212
  */
 public class calculadora2022 {
